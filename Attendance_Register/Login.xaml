@@ -1,0 +1,112 @@
+﻿<Window x:Class="AttendanceSystem.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    Title="Login"
+    Height="500"
+    Width="350"
+    ResizeMode="NoResize"
+    WindowStyle="None"
+    WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Rectangle
+            Height="280"
+            VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <LinearGradientBrush
+                    EndPoint="0.5,1"
+                    StartPoint="0.5,0">
+                    <GradientStop
+                        Color="#FF2281D1" />
+                    <GradientStop
+                        Color="#FF34268A"
+                        Offset="1" />
+                    <GradientStop
+                        Color="#FF33288B"
+                        Offset="0.5" />
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Image
+            Source="Assets/home.png"
+            Width="100"
+            Height="100"
+            VerticalAlignment="Top"
+            Margin="20" />
+        <Rectangle
+            Height="240"
+            Width="280"
+            Fill="White"
+            VerticalAlignment="Bottom"
+            Margin="0,100"
+            RadiusX="15"
+            RadiusY="15">
+            <Rectangle.Effect>
+                <DropShadowEffect
+                    Color="#FFBBBBBB"
+                    BlurRadius="15"
+                    Direction="0"
+                    RenderingBias="Quality"
+                    ShadowDepth="1" />
+            </Rectangle.Effect>
+        </Rectangle>
+        <Grid
+            Width="280"
+            Height="240"
+            VerticalAlignment="Bottom"
+            Margin="0,100">
+            <TextBlock
+                Text="LOGIN"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="5"
+                Foreground="Gray"
+                FontSize="18" />
+            <materialDesign:PackIcon
+                Kind="User"
+                Height="41"
+                Width="43"
+                RenderTransformOrigin="0.655,1.054"
+                Margin="10,70,0,0"
+              
+                 />
+            <materialDesign:PackIcon
+                Kind="Lock"
+                Height="34"
+                Width="43"
+                RenderTransformOrigin="0.529,4.361"
+                Margin="10,133,0,0" />
+
+            <StackPanel
+                VerticalAlignment="Center"
+                Margin="10">
+                <TextBox
+                    materialDesign:HintAssist.Hint="Username"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    Margin="42,10,0,10"
+                    FontFamily="Microsoft Uighur"
+                    FontSize="18" />
+                <PasswordBox
+                    materialDesign:HintAssist.Hint="Password"
+                    Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"
+                    Margin="42,10,0,10"
+                    FontSize="18"
+                    FontFamily="Microsoft Uighur" />
+            </StackPanel>
+        </Grid>
+        <Button
+            Margin="100,383,100,85"
+            Width="150"
+            Content="Login"
+            Height="Auto" />
+        <Button
+            x:Name="Exit"
+            Content="Close"
+            Width="150"
+            Margin="100,443,100,25"
+            Height="Auto"
+            Click="Close_Click" />
+    </Grid>
+</Window>

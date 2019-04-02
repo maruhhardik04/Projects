@@ -1,0 +1,50 @@
+D:\Projects\C#\Attendance_Register\Attendance_Register\bin\Debug\Attendance System.exe.config
+D:\Projects\C#\Attendance_Register\Attendance_Register\bin\Debug\Attendance System.exe
+D:\Projects\C#\Attendance_Register\Attendance_Register\bin\Debug\Attendance System.pdb
+D:\Projects\C#\Attendance_Register\Attendance_Register\bin\Debug\EntityFramework.dll
+D:\Projects\C#\Attendance_Register\Attendance_Register\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\Attendance_Register\Attendance_Register\bin\Debug\EntityFramework.xml
+D:\Projects\C#\Attendance_Register\Attendance_Register\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\App.g.cs
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\Attendance System_MarkupCompile.cache
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\Attendance System_MarkupCompile.lref
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\MainWindow.baml
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\Attendance System.g.resources
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\AttendanceSystem.Properties.Resources.resources
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\AttendanceSystem.csproj.GenerateResource.cache
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\AttendanceSystem.csproj.CopyComplete
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\Attendance System.exe
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\Attendance System.pdb
+D:\Projects\C#\Attendance_Register\Attendance_Register\bin\Debug\Data\Database.mdf
+D:\Projects\C#\Attendance_Register\Attendance_Register\bin\Debug\Data\Database_log.ldf
+D:\Projects\C#\Attendance_Register\Attendance_Register\obj\Debug\Attendance System_Content.g.cs
+D:\Attendance_Register\Attendance_Register\obj\Debug\Login.baml
+D:\Attendance_Register\Attendance_Register\obj\Debug\Login.g.cs
+D:\Attendance_Register\Attendance_Register\obj\Debug\App.g.cs
+D:\Attendance_Register\Attendance_Register\obj\Debug\Attendance System_Content.g.cs
+D:\Attendance_Register\Attendance_Register\obj\Debug\Attendance System_MarkupCompile.cache
+D:\Attendance_Register\Attendance_Register\obj\Debug\Attendance System_MarkupCompile.lref
+D:\Attendance_Register\Attendance_Register\bin\Debug\Data\Database.mdf
+D:\Attendance_Register\Attendance_Register\bin\Debug\Data\Database_log.ldf
+D:\Attendance_Register\Attendance_Register\bin\Debug\Attendance System.exe.config
+D:\Attendance_Register\Attendance_Register\bin\Debug\Attendance System.exe
+D:\Attendance_Register\Attendance_Register\bin\Debug\Attendance System.pdb
+D:\Attendance_Register\Attendance_Register\bin\Debug\EntityFramework.dll
+D:\Attendance_Register\Attendance_Register\bin\Debug\EntityFramework.SqlServer.dll
+D:\Attendance_Register\Attendance_Register\bin\Debug\MaterialDesignColors.dll
+D:\Attendance_Register\Attendance_Register\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Attendance_Register\Attendance_Register\bin\Debug\EntityFramework.xml
+D:\Attendance_Register\Attendance_Register\bin\Debug\EntityFramework.SqlServer.xml
+D:\Attendance_Register\Attendance_Register\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Attendance_Register\Attendance_Register\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Attendance_Register\Attendance_Register\obj\Debug\App.baml
+D:\Attendance_Register\Attendance_Register\obj\Debug\Attendance System.g.resources
+D:\Attendance_Register\Attendance_Register\obj\Debug\AttendanceSystem.Properties.Resources.resources
+D:\Attendance_Register\Attendance_Register\obj\Debug\AttendanceSystem.csproj.GenerateResource.cache
+D:\Attendance_Register\Attendance_Register\obj\Debug\Attendance System.exe
+D:\Attendance_Register\Attendance_Register\obj\Debug\Attendance System.pdb
+D:\Attendance_Register\Attendance_Register\obj\Debug\AttendanceSystem.csprojAssemblyReference.cache
+D:\Attendance_Register\Attendance_Register\obj\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+D:\Attendance_Register\Attendance_Register\obj\Debug\AttendanceSystem.csproj.CopyComplete
